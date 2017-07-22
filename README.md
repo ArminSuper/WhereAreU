@@ -2,9 +2,9 @@ Welcome to WhereAreU!
 ===================
 
 #### **Description**		
-A location App based on IP&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+A location App based on IP
 
-![logo](https://raw.githubusercontent.com/ArminSuper/WhereAreU/master/images/location.png)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![logo](https://raw.githubusercontent.com/ArminSuper/WhereAreU/master/images/location.png)
 	
 ####  **Download and Install**
 
