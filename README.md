@@ -1,4 +1,4 @@
-Welcome to WhereAreU!
+![logo](https://raw.githubusercontent.com/ArminSuper/WhereAreU/master/images/location.png)&emsp;&emsp;Welcome to WhereAreU! 
 ===================
 
 #### **Description**		
@@ -8,9 +8,9 @@ Welcome to WhereAreU!
 
  - **Download**
  
- [![32bitDownload](https://raw.githubusercontent.com/ArminSuper/WhereAreU/master/images/32bit.png "32bitDownload")](https://raw.githubusercontent.com/ArminSuper/WhereAreU/master/Install_WhereAreU32.exe)   **32Bit** [Download](https://raw.githubusercontent.com/ArminSuper/WhereAreU/master/Install_WhereAreU32.exe)
+ [![32bitDownload](https://raw.githubusercontent.com/ArminSuper/WhereAreU/master/images/32bit.png "32bitDownload")](https://raw.githubusercontent.com/ArminSuper/WhereAreU/master/Install_WhereAreU32.exe)  &emsp;&emsp;&emsp;**32Bit** [Download](https://raw.githubusercontent.com/ArminSuper/WhereAreU/master/Install_WhereAreU32.exe)
  
- [![64bitDownload](https://raw.githubusercontent.com/ArminSuper/WhereAreU/master/images/64bit.png "64bitDownload")](https://raw.githubusercontent.com/ArminSuper/WhereAreU/master/Install_WhereAreU64.exe) **64Bit** [Download](https://raw.githubusercontent.com/ArminSuper/WhereAreU/master/Install_WhereAreU64.exe)
+ [![64bitDownload](https://raw.githubusercontent.com/ArminSuper/WhereAreU/master/images/64bit.png "64bitDownload")](https://raw.githubusercontent.com/ArminSuper/WhereAreU/master/Install_WhereAreU64.exe) &emsp;&emsp;&emsp;**64Bit** [Download](https://raw.githubusercontent.com/ArminSuper/WhereAreU/master/Install_WhereAreU64.exe)
  
  - **Install**
 	MSVCP140.dll and vcruntime140.dll  is missing ?
