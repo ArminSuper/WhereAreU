@@ -23,7 +23,3 @@ A location App based on IP
 ------
 #### **Contact** 
 
-----------
- - Weibo  :  [http://weibo.com/6030697446](http://weibo.com/u/6030697446 "http://weibo.com/6030697446")
- -  Email  :  [Email](mailto:j7armin@gmail.com)
-
